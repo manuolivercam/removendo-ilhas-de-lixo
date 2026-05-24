@@ -1,4 +1,4 @@
-# Removendo Ilhas de Lixo 🌊🗑️
+# Removendo ilhas de lixo 🌊🗑️
 
 Este repositório contém a solução do **Primeiro Exercício-Programa (EP1)** da disciplina **ACH2002 - Introdução à Análise de Algoritmos** (2025), ministrada pelo Prof. Marcos Lordello Chaim na **Escola de Artes, Ciências e Humanidades (EACH-USP)**.
 
@@ -16,7 +16,7 @@ A partir de uma matriz que representa uma região escaneada do oceano (onde cada
 
 ---
 
-## 🛠️ Tecnologias e Conceitos Utilizados
+## 🛠️ Tecnologias e conceitos utilizados
 
 * **Linguagem C**: Implementação limpa com manipulação dinâmica de memória (`malloc`/`free`) e leitura de arquivos (`fscanf`).
 * **Busca em Matrizes / Grafos (Flood Fill)**: Algoritmo recursivo para explorar e delimitar os componentes conexos (as ilhas) na matriz do oceano.
@@ -24,11 +24,11 @@ A partir de uma matriz que representa uma região escaneada do oceano (onde cada
 
 ---
 
-## 🚀 Como Compilar e Executar
+## 🚀 Como compilar e executar
 
 Certifique-se de ter um compilador GCC instalado no seu ambiente.
 
 ### 1. Compilação
 No terminal, execute o comando para compilar o código:
 ```bash
-gcc ep1.c -o EP1
+gcc ep1_iaa.c -o EP1
