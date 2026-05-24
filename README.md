@@ -31,4 +31,4 @@ Certifique-se de ter um compilador GCC instalado no seu ambiente.
 ### 1. Compilação
 No terminal, execute o comando para compilar o código:
 ```bash
-gcc 16887191.c -o EP1
+gcc ep1.c -o EP1
